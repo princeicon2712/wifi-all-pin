@@ -8,6 +8,8 @@
  
 ```sudo python rejaul2712/rejaul.py -i wlan0 -b CC:2D:21:62:13:58 -B -p 55157698 ```
 
+``` rayhan password:- Anas2520
+
 # saim:-Router PPoe
 
 ```username:- 100886@naim.sol-bd.com ```
