@@ -13,10 +13,10 @@ sudo python OneShot/oneshot.py -i wlan0 -b 48:22:54:14:A0:C9 -p 49937305
 ``` rayhan password:- Anas2520
 
 
-#saim:-Router PPoe
-
 ```username:- 100886@naim.sol-bd.com ```
 
 ``` passwod:- 1122 ``` sudo python OneShot/oneshot.py -i wlan0 -b 48:22:54:14:A0:C9 -p 49937305
 
 jakir wifi:- 85239999
+
+jamal wifi= 91978035
