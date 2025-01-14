@@ -20,6 +20,7 @@ Renu kaka:- 30712881
 
 sumaiya মোবাইল পাসওয়ার্ট:- 637267
 
+Ranu wifi admin penel:- 76449163
 ## Renu wifi 
 user:- ts-net1026
 password:- 12345
