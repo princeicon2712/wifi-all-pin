@@ -25,3 +25,5 @@ Ranu wifi admin penel:- 76449163
 user:- ts-net1026
 password:- 12345
 
+admin penel pass:- 76449163
+
