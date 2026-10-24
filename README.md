@@ -38,3 +38,7 @@ SID510679
 
 1062032582525
 
+## my home wps pin
+
+
+sudo python rejaul2712/rejaul.py -i wlan0 -b 30:16:9D:EC:51:2C -B -p 10735039
