@@ -42,3 +42,8 @@ SID510679
 
 
 sudo python rejaul2712/rejaul.py -i wlan0 -b 30:16:9D:EC:51:2C -B -p 10735039
+
+## my wifi ppp
+
+ts-net00268
+12345
